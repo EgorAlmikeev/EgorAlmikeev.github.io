@@ -3,7 +3,7 @@
 
 #### Authors: Almikeev Egor (ealmikeew@gmail.com), Kunitsyna Sofiya (s.kunica97@gmail.com)
 
-Title | Url
+Title | :octocat:
 ------------ | -------------
 Trello              | https://bit.ly/2IgDFx3
 Presentation        | https://bit.ly/2IqsUV8
