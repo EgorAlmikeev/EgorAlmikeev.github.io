@@ -15,7 +15,6 @@ _08-05-2018 Клиентский роутинг_ | [```---> Goto github <---```]
 
 Title | Sources
 ------------ | -------------
-_Content cell 1_ | [```---> Goto github <---```]()
 _08-02-2018 Введение в прототипы_ | [```---> Goto github <---```](https://github.com/EgorAlmikeev/js-prototypes)
 _15-02-2018 Классы и наследование_ | [```---> Goto github <---```](https://github.com/EgorAlmikeev/js-classes)
 _01-03-2018 Сборка_ | [```---> Goto github <---```](https://egoralmikeev.github.io/js/bundle/bundle.html)
