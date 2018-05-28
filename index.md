@@ -24,17 +24,17 @@ _05-04-2018 Mongo и Express_ | [```---> Goto github <---```](https://github.com
 _19-04-2018 Компоненты и введение в React_ | [```---> Goto github <---```](https://github.com/EgorAlmikeev/react-components)
 _10-05-2018 Hot reload_ | [```---> Goto github <---```](https://github.com/EgorAlmikeev/hot-reload)
 
+```bash
+/-----------------------------------------------------------\
+|Chuck Norris can overflow your stack just by looking at it.|
+\-----------------------------------------------------------/
+ \ /
+  \.--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/'\_   _/`\
+\___)=(___/ 
 
-```cpp
-int main(char* argv, int argc) {
-
-}
 ```
-
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
-
-@EgorAlmikeev
