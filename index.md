@@ -29,7 +29,6 @@ _10-05-2018 Hot reload_ | [```---> Goto sources <---```](https://github.com/Egor
 
 Title | Sources
 ------------ | -------------
-_Content cell 1_ | [```---> Goto sources <---```]()
 _Диаграмма Ганта_ | [```---> Goto sources <---```](https://github.com/ctel-prj-mng/1-gantt-60218-PrincessYork)
 _Макет_ | [```---> Goto sources <---```](https://github.com/ctel-prj-mng/2-wireframe-130218-PrincessYork)
 _Техническое задание_ | [```---> Goto sources <---```](https://github.com/ctel-prj-mng/3-tz-200218-PrincessYork)
