@@ -1,7 +1,7 @@
 ![](./pictures/header_picture.png)
 
 
-## Компьютерный практикум 4 семестр (2018)
+## Компьютерный практикум – 4 семестр (2018)
 
 Title | Sources
 ------------ | -------------
@@ -12,7 +12,7 @@ _17-04-2018 Механизм сессий_ | [```---> Goto sources <---```](http
 _08-05-2018 Клиентский роутинг_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/routing)
 
 
-## Обогащённые веб-интерфейсы 4 семестр (2018)
+## Обогащённые веб-интерфейсы – 4 семестр (2018)
 
 Title | Sources
 ------------ | -------------
@@ -23,9 +23,10 @@ _29-03-2018 Middleware в PHP / Silex_ | [```---> Goto sources <---```](https://
 _05-04-2018 Mongo и Express_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/Mongo05-04-2018)
 _19-04-2018 Компоненты и введение в React_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/react-components)
 _10-05-2018 Hot reload_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/hot-reload)
+_31-05-2018 Буферы и потоки_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/js-buffers)
 
 
-## Управление программными проектами 4 семестр (2018)
+## Управление программными проектами – 4 семестр (2018)
 
 Title | Sources
 ------------ | -------------
@@ -39,7 +40,7 @@ _Метрика_ | [```---> Goto sources <---```](https://docs.google.com/docume
 _Проект LostNfound_ | [```---> Goto sources <---```](https://github.com/ctel-prj-mng/9-prj-15052018-lostnfound)
 
 
-## Программирование на Python 3 семестр (2017)
+## Программирование на Python3 – 3 семестр (2017)
 
 Title | Sources
 ------------ | -------------
