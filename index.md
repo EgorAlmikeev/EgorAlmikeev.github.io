@@ -10,6 +10,7 @@ _13-03-2018 веб-сервер Node_ | [```---> Goto sources <---```](https://g
 _20-03-2018 Фреймворк Express_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/express)
 _17-04-2018 Механизм сессий_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/express_sessions)
 _08-05-2018 Клиентский роутинг_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/routing)
+_TODO LIST PROJECT_ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/Todoer)
 
 
 ## Обогащённые веб-интерфейсы – 4 семестр (2018)
