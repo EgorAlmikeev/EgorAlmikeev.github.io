@@ -1,3 +1,5 @@
+![](./pictures/header_picture.png)
+
 ## Компьютерный практикум – 4 семестр (2018)
 
 Title | Sources
