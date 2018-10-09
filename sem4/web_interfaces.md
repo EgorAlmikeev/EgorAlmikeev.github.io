@@ -1,4 +1,4 @@
-![](./pictures/header_picture.png)
+![](../pictures/header_picture.png)
 
 ## Обогащённые веб-интерфейсы – 4 семестр (2018)
 
