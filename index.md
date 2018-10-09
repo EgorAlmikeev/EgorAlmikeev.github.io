@@ -1,6 +1,5 @@
 ![](./pictures/header_picture.png)
 
-
 Title | Sources
 ------------ | -------------
 Компьютерный практикум – 4 семестр (2018) | [```---> Goto archive <---```](./computer_practice.md)
