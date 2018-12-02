@@ -3,7 +3,7 @@
 ### Developed by me
 Title | Description | Sources
 ------------ | ------------- | -------------
-ConsoleMenu.py | Небольшой класс, разработанный с целью облегчения создания меню для консольных приложений на Python 3.x | https://github.com/EgorAlmikeev/ConsoleMenu.py/blob/master/README.md
+ConsoleMenu.py | Небольшой класс, разработанный с целью облегчения создания меню для консольных приложений на Python 3.x | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/ConsoleMenu.py)
 
 ### Семестр IV
 
