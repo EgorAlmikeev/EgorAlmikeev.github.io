@@ -3,3 +3,7 @@ navbar-links:
 
 theme: jekyll-theme-hacker
 show_downloads: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
