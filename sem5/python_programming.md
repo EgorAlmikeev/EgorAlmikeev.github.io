@@ -4,5 +4,6 @@
 
 Title | Sources
 ------------ | -------------
+_Тема 1 Часть 1_ | [```---> Goto sources <---```](https://github.com/herzenuni/sem5-firsttask-04092018-EgorAlmikeev)
 _Модули_ | [```---> Goto sources <---```](https://github.com/herzenuni/sem5-2016-packages-EgorAlmikeev)
 _ООП_ | [```---> Goto sources <---```](https://github.com/python-advance/sem5-oop-EgorAlmikeev)
