@@ -1,5 +1,10 @@
 ![](./pictures/header_picture.png)
 
+### Developed by me
+Title | Description | Sources
+------------ | ------------- | -------------
+ConsoleMenu.py | Небольшой класс, разработанный с целью облегчения\nсоздания меню для консольных приложений на Python 3.x | https://github.com/EgorAlmikeev/ConsoleMenu.py/blob/master/README.md
+
 ### Семестр IV
 
 Title | Sources
