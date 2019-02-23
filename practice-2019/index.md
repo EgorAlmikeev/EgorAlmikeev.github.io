@@ -1,6 +1,6 @@
 [```---> HOME PAGE <---```](https://egoralmikeev.github.io)
 
-![](./pictures/header_picture.png)
+![](../pictures/header_picture.png)
 
 ### Зимняя практика 2019
 
