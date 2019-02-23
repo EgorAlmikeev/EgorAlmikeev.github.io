@@ -7,7 +7,7 @@
 Title | Sources
  ------------ | -------------
 _Задание 1.1. Изучить и проанализировать печатные и Internet-источники по философским проблемам информатики._ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/winter-practice-2019/blob/master/1_1.pdf)
-_Задание 1.2. Выделить важные этапы в истории развития информатики и их социальные последствия. _ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/winter-practice-2019/blob/master/1_2.png)
+_Задание 1.2. Выделить важные этапы в истории развития информатики и их социальные последствия._ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/winter-practice-2019/blob/master/1_2.png)
 _Задание 1.3. Изучить стандарты и спецификации в сфере ИТ._ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/winter-practice-2019/blob/master/1_3.pdf)
 _Задание 1.4. Изучить и освоить комплекс физических упражнений для программиста._ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/winter-practice-2019/blob/master/1_4.pdf)
 _Задание 1.5. Изучить и освоить гимнастику для глаз._ | [```---> Goto sources <---```](https://github.com/EgorAlmikeev/winter-practice-2019/blob/master/1_5.pdf)
