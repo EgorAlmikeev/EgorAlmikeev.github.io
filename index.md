@@ -28,6 +28,12 @@ Title | Sources
 ------------ | -------------
 _Зимняя практика 2019_ | [```---> Goto archive <---```](./practice-2019/index.md)
 
+### Семестр VII
+
+Title | Sources
+------------ | -------------
+_Организация электронной образовательной среды – 7 семестр (2019)_ | [```---> Goto archive <---```](./sem7/scorm.md)
+
 ```bash
 /-----------------------------------------------------------\
 |Chuck Norris can overflow your stack just by looking at it.|
